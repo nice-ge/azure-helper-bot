@@ -1,8 +1,8 @@
 {
   "BOT": {
     "NAME": "Azure 小助手",
-    "TOKEN": "AAFHp-9Kqn0KCdo5uh6PjCNVAIGBoZE3cQs",
-    "ADMINS": [1032479240]
+    "TOKEN": "",
+    "ADMINS": []
   },
   "VM": {
     "DISK_SIZE_DEFAULT": 64,
